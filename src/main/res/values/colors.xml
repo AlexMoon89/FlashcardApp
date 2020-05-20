@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPurple">#72206e</color>
+    <color name="colorPurpleBorder">#4621CC</color>
+    <color name="colorPurple2">#250E4C</color>
+    <color name="colorPurpleBackground">#583FD8</color>
+    <color name="RedGrayHue">#87646a</color>
+    <color name="Yellow">#107CAE</color>
+    <color name="YellowText">#b7b094</color>
+    <color name="YellowBorder">#fff5ce</color>
+    <color name="Answers"> #d6d4d4</color>
+    <color name="RightGreen"> #4fc164</color>
+    <color name="WrongRed"> #d61d1d</color>
+</resources>

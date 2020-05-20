@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Study Cards</string>
+    <string name="mainQuestion">Who is the 44th President of the United States?</string>
+    <string name="mainAnswer">Barack Obama</string>
+    <string name="mainWrong1">Bill Clinton</string>
+    <string name="mainWrong2">George H. W. Bush</string>
+    <string name="editQuestion">Write a new question.</string>
+    <string name="editCorrect">Enter correct answer here.</string>
+    <string name="editWrong1">Enter wrong answer #1.</string>
+    <string name="editWrong2">Enter wrong answer #2.</string>
+
+
+</resources>
